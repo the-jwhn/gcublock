@@ -9,3 +9,4 @@ halo.gcu.edu##.cursor-pointer.mx-auto.mb-12
 ||halo.gcu.edu/_next/static/media/tenant_login.f6fe09cf.svg$image
 ||halo.gcu.edu/_next/static/media/tenant_home.b121d3d3.svg$image
 ||halo.gcu.edu/_next/static/media/tenant_sidebar.50da33ca.svg$image
+||halo.gcu.edu/_next/static/media/tenant_sidebar_icon.16139a75.svg$image
